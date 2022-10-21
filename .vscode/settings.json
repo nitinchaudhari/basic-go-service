@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\pythonw.exe",
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "CaskaydiaCove NF",
+    "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#57dd8f",
+    "titleBar.activeForeground": "#000000"
+    },
+    "window.titleBarStyle": "custom"
+}
